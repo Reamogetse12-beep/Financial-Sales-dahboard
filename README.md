@@ -1,4 +1,4 @@
-# Financial-Sales-dahboard
+# Financial-Sales-dashboard
 Power BI Financial and Sales Dashboard analyzing regional performance.
 # Financial & Sales Performance Dashboard (Power BI)
 
