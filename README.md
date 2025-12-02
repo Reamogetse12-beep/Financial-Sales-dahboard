@@ -22,7 +22,7 @@ The dashboard was built to provide clear insights that executives and analysts c
 - **Power BI Desktop (.pbix)**
 - **Microsoft Excel** (data preparation)
 - **Power Query & DAX** (calculations, cleansing)
-- **Python** (optional preprocessing)
+- **Python**
 - **PDF Export for reporting**
 
 ---
